@@ -5,9 +5,9 @@ This repository contains the source code for an e-commerce website prototype. Th
 
 ## Project Overview
 
-- Prototype of an e-commerce website built primarily with HTML.
+- Prototype of an e-commerce website built primarily with HTML and CSS
 - Designed to demonstrate the basic layout and structure of an online store.
-- CSS and JavaScript will be integrated to enhance design and functionality.
+- Further CSS and JavaScript will be integrated to enhance design and functionality.
 
 ## How to View
 
@@ -17,6 +17,7 @@ This repository contains the source code for an e-commerce website prototype. Th
 ## Technologies Used
 
 - HTML
+- CSS
 
 ## Future Plans
 
