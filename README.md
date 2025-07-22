@@ -1,6 +1,6 @@
 # E-Commerce Website Prototype
 
-This repository contains the source code for an e-commerce website prototype. The project focuses on building the frontend structure and layout using HTML, with plans to add styling and interactivity.
+This repository contains the source code for an e-commerce website prototype. The project focuses on building the frontend structure and layout using HTML and CSS with further plans of integrating JavaScript.
 
 ## Project Overview
 
