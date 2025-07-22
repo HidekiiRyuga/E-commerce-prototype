@@ -12,7 +12,7 @@ This repository contains the source code for an e-commerce website prototype. Th
 ## How to View
 
 1. Clone this repository or download the ZIP file.
-2. Open the main HTML file (`index.html` or specify if different) in any web browser to view the prototype locally.
+2. Open the main HTML file `index.html`  in any web browser to view the prototype locally.
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ This repository contains the source code for an e-commerce website prototype. Th
 
 ## Future Plans
 
-- Add CSS for styling and responsive design.
+- Add further CSS for styling and responsive design.
 - Implement JavaScript for interactive features such as shopping cart and product filtering.
 
 ## Contact
